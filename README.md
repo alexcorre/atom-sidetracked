@@ -4,4 +4,4 @@
 
 Check out [drudge/Sidetracked](https://github.com/drudge/Sidetracked) for the original theme.
 
-![Screenshot](/img/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/alexcorre/atom-sidetracked/master/img/screenshot.png)
