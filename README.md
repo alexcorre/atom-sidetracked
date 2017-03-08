@@ -4,6 +4,8 @@
 
 This is the latest version of Sidetracked Syntax theme. Its a dark syntax theme and looks especially good alongside the standard [One Dark](https://atom.io/themes/atom-dark-ui) UI theme bundled with Atom. Based on [drudge/Sidetracked](https://github.com/drudge/Sidetracked) theme for TextMate and more.
 
---------------
+## Screenshot
 
-![javascript](https://raw.githubusercontent.com/alexcorre/atom-sidetracked/master/img/js.png)
+Shown here paired with [One Dark](https://atom.io/themes/atom-dark-ui) UI theme.
+
+![javascript](https://raw.githubusercontent.com/alexcorre/atom-sidetracked-syntax/master/img/js.png)
